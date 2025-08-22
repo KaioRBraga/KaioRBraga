@@ -1,6 +1,6 @@
 ## Olá! Eu sou Kaio Rodrigues Braga
 
-Here are some ideas to get you started:
+Sobre mim:
 
 - 🔭 Hoje eu estou cursando Analise e Desenvolvimento de Sistema
 - 😄 Pronouns: Ele/Dele
