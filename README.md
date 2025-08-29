@@ -9,9 +9,9 @@ Sobre mim:
 <div>
   <a href= "https://github.com/Marshaaaall">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marshaaaall&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br>
+<br>
 
-<div>
+<div><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="100" height="100"/>
 
   
