@@ -19,3 +19,6 @@ Let's connect and create something amazing together!
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshaaaall&layout=compact&langs_count=7&theme=dark"/>
 <br>
 
+![Snake animation](https://github.com/Marshaaaall/Marshaaaall/blob/output/github-contribution-grid-snake.svg)
+
+
