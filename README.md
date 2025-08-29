@@ -7,7 +7,7 @@ I am currently pursuing a degree in Systems Analysis and Development, focusing o
 He/Him
 
 <b>Contact Me 📧</b><br>
-Feel free to reach out to me for collaboration or opportunities. I'm always open to discussing new projects and ideas.
+Feel free to reach out to me for collaboration or opportunities. I'm always open to discussing new projects and ideas. 
 
 <em>Email: kaiobraga210@gmail.com</em>
 
