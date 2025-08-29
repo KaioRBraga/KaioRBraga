@@ -1,19 +1,20 @@
-## Olá! Eu sou Kaio Rodrigues Braga
+## Hi! I'm Kaio Rodrigues Braga
 
-Sobre mim:
+Currently Studying 🎓
+I am currently pursuing a degree in Systems Analysis and Development, focusing on building a strong foundation in software engineering, database management, and agile methodologies.
 
-- 🔭 Hoje eu estou cursando Analise e Desenvolvimento de Sistema
-- 😄 Pronouns: Ele/Dele
-- 📨 Contate-me no e-mail: kaiobraga210@gmail.com 
+Pronouns 💬
+He/Him
+
+Contact Me 📧
+Feel free to reach out to me for collaboration or opportunities. I'm always open to discussing new projects and ideas.
+
+Email: kaiobraga210@gmail.com
+
+Let's connect and create something amazing together!
 
 <div>
   <a href= "https://github.com/Marshaaaall">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marshaaaall&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <br>
 
-<div><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" width="100" height="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="100" height="100"/>
-
-  
