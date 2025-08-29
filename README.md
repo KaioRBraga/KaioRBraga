@@ -14,5 +14,6 @@ Sobre mim:
   <img height ="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshaaaall&layout=compact&langs_count=16&theme=dark"/>
 
 <div>
-  <i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100"/>
+
   
