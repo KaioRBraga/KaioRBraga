@@ -9,7 +9,7 @@ He/Him
 <b>Contact Me 📧</b><br>
 Feel free to reach out to me for collaboration or opportunities. I'm always open to discussing new projects and ideas. 
 
-<em>Email: kaiobraga210@gmail.com</em>
+<em>Email: kaiobraga210@gmail.com</em> 
 
 Let's connect and create something amazing together!
 
