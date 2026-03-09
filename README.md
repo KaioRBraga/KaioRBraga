@@ -13,9 +13,6 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 Let's connect and create something amazing together!
 
-<div>
-  <a href= "https://github.com/Marshaaaall">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshaaaall&layout=compact&langs_count=7&theme=dark"/>
 <br>
 
 
