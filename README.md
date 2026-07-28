@@ -55,7 +55,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <br/>
 
-< !-- <img src="https://streak-stats.demolab.com?user=Marshaaaall&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" /> -->
+<img src="https://streak-stats.demolab.com?user=Marshaaaall&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" />
 
 <br/><br/>
 
