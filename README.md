@@ -53,16 +53,13 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marshaaaall&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshaaaall&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <br/>
 
 < !-- <img src="https://streak-stats.demolab.com?user=Marshaaaall&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" /> -->
 
 <br/><br/>
 
-< !-- <img src="https://github-profile-trophy.vercel.app/?username=Marshaaaall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=Marshaaaall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
