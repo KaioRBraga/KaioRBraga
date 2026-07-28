@@ -34,7 +34,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css&theme=dark" alt="Languages" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=flask,django,fastapi,react,nodejs,express,tailwind,bootstrap&theme=dark" alt="Frameworks" />
