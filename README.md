@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Hi! I'm Kaio Rodrigues Braga
+## Hi! I'm Kaio Rodrigues Braga
 
 **Currently Studying**
 I am currently pursuing a degree in **Systems Analysis and Development**, focusing on building a strong foundation in software engineering, database management, and agile methodologies.
