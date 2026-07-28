@@ -58,11 +58,11 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Marshaaaall&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" />
+< !-- <img src="https://streak-stats.demolab.com?user=Marshaaaall&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" /> -->
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Marshaaaall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+< !-- <img src="https://github-profile-trophy.vercel.app/?username=Marshaaaall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" /> -->
 
 </div>
 
