@@ -59,8 +59,6 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Marshaaaall&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
 </div>
 
 ---
