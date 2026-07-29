@@ -43,7 +43,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" alt="Databases" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools" />
 
 </div>
 
