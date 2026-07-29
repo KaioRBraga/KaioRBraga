@@ -22,7 +22,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 <div align="left">
 
 [![Gmail](https://img.shields.io/badge/kaiobraga210@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiobraga210@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KaioRBraga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaio-braga-4564522a7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaioRBraga)
 
 </div>
