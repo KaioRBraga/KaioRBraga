@@ -22,8 +22,8 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 <div align="left">
 
 [![Gmail](https://img.shields.io/badge/kaiobraga210@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiobraga210@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Marshaaaall)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marshaaaall)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KaioRBraga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaioRBraga)
 
 </div>
 
@@ -55,7 +55,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Marshaaaall&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=KaioRBraga&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak" />
 
 <br/><br/>
 
@@ -68,12 +68,12 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marshaaaall/Marshaaaall/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marshaaaall/Marshaaaall/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marshaaaall/Marshaaaall/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaioRBraga/KaioRBraga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaioRBraga/KaioRBraga/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaioRBraga/KaioRBraga/output/github-snake.svg" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marshaaaall&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaioRBraga&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -81,7 +81,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Marshaaaall&label=Profile%20views&color=1BFFFF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=KaioRBraga&label=Profile%20views&color=1BFFFF&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" width="100%" />
 
