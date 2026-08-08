@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+%7C+Databases+%7C+Agile;Always+learning%2C+always+building;Let's+create+something+amazing+together!" alt="Typing SVG" />
 
 </div>
-
 ---
 
 ## Hi! I'm Kaio Rodrigues Braga
