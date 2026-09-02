@@ -72,8 +72,6 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaioRBraga/KaioRBraga/output/github-snake.svg" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaioRBraga&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-
 </div>
 
 ---
