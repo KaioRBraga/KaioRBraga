@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Kaio%20Rodrigues%20Braga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Analysis%20and%20Development%20Student&descAlignY=55&descSize=16" width="100%](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kaio%20Rodrigues%20Braga&fontColor=FFFFFF&textBg=false&section=header&reversal=false&desc=System%20Analysis%20and%20%20development%20student&descSize=21&descAlign=50&descAlignY=67" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:E04141&height=200&section=header&text=Kaio%20Rodrigues%20Braga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Analysis%20and%20Development%20Student&descAlignY=55&descSize=16" width="100%](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kaio%20Rodrigues%20Braga&fontColor=FFFFFF&textBg=false&section=header&reversal=false&desc=System%20Analysis%20and%20%20development%20student&descSize=21&descAlign=50&descAlignY=67" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F70000&width=435&lines=Software++Engineering+%7C+Databases;Always+learning%2C+always+building;Let's+create+something+amazing+together" alt="Typing SVG" /></a>
 
