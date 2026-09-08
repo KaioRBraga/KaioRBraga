@@ -78,7 +78,7 @@ Feel free to reach out to me for collaboration or opportunities. I'm always open
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaioRBraga&label=Profile%20views&color=1BFFFF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=KaioRBraga&label=Profile%20views&color=E04141&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0E00,100:E04141&height=120&section=footer" width="100%" />
 
